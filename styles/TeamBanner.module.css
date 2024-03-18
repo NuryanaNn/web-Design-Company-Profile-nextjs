@@ -1,0 +1,21 @@
+/* HeroSection.module.css */
+
+.TeamBanner-section {
+  position: relative;
+  height: 300px;
+  display: flex;
+  align-items: center;
+}
+
+.hero-background {
+  background-image: url(".././public/section-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.hero-overlay {
+  position: absolute;
+  padding: 2rem 5%;
+  text-align: left;
+}
