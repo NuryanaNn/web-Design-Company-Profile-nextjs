@@ -34,8 +34,8 @@ const Navbar: React.FC = () => {
             <li>
               <Link href="/">
               <a className={`block py-2 px-3 rounded md:p-0 dark:text-white md:dark:text-blue-500 ${activePage === 'Home' ? 'text-gray-900 md:text-blue-700 md:p-0 dark:text-white' : 'hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent'}`} aria-current="page" onClick={() => handlePageChange('Home')}>Home</a>
+            </Link>
             </li>
-              </Link>
             <li>
               <Link href="/about">
               <a className={`block py-2 px-3 rounded md:p-0 dark:text-white md:dark:text-blue-500 ${activePage === 'About' ? 'text-blue-700 md:text-blue-700 md:p-0 dark:text-white' : 'hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent'}`} aria-current="page" onClick={() => handlePageChange('About')}>About Us</a>
@@ -49,7 +49,7 @@ const Navbar: React.FC = () => {
             <li>
               <Link href="/team">
               <a href="/team" className={`block py-2 px-3 rounded md:p-0 dark:text-white md:dark:text-blue-500 ${activePage === 'Team' ? 'text-blue-700 md:text-blue-700 md:p-0 dark:text-white' : 'hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent'}`} aria-current="page" onClick={() => handlePageChange('Team')}>Team</a>
-            </Link>
+              </Link>
             </li>
           </ul>
         </div>
