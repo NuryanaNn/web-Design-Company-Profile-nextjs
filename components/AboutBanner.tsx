@@ -12,7 +12,7 @@ const SmallBanner = () => {
         </h1>
         {/* P Responsive */}
         <p className="mt-4 text-md md:text-lg lg:text-2xl text-white">
-          We're Passionate About Helping Businesses Thrive with Technology
+          Were Passionate About Helping Businesses Thrive with Technology
         </p>
       </div>
     </div>
