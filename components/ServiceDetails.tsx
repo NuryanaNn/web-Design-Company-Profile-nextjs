@@ -78,7 +78,7 @@ const ServiceDetails = () => {
             />
             <h2 className="font-bold text-xl mb-2">SEO Optimization</h2>
             <p className="text-gray-700 text-base">
-              SEO optimization is the process of improving a website's ranking
+              SEO optimization is the process of improving a websites ranking
               in search engine results pages. It involves optimizing website
               content, building backlinks, and using relevant keywords.
             </p>
