@@ -1,7 +1,7 @@
 import { NextPage } from "next";
 import Head from "next/head";
 // import LandingPageTemplate from "../templates/LandingPage/LandingPageTemplate";
-import Navbar from "../components/ServiceNav";
+import Navbar from "../components/Navbar";
 import HeroSection from "../components/HeroSection";
 import ServiceSection from "../components/ServiceSection";
 import AboutUs from "../components/AboutUs";
