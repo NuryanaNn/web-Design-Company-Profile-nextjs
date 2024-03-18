@@ -150,7 +150,7 @@ const Testimonials: React.FC = () => {
             </div>
             <p className="text-gray-700 testimonial-3-text">
               {/* Tambahkan kelas unik untuk teks testimoni */}
-              We couldnt be happier with the results we've seen. Your teams dedication and attention to detail have truly exceeded our expectations. Thank you for helping us achieve our goals!
+              We couldnt be happier with the results weve seen. Your teams dedication and attention to detail have truly exceeded our expectations. Thank you for helping us achieve our goals!
             </p>
           </div>
         </div>
