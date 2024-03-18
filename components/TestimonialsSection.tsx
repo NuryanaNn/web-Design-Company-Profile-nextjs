@@ -104,7 +104,7 @@ const Testimonials: React.FC = () => {
             </div>
             <p className="text-gray-700 testimonial-2-text">
               {/* Tambahkan kelas unik untuk teks testimoni */}
-              Working with your team has been a game-changer for us. The level of professionalism and expertise is unmatched. We're extremely satisfied with the results we've achieved together.
+              Working with your team has been a game-changer for us. The level of professionalism and expertise is unmatched. Were extremely satisfied with the results weve achieved together.
             </p>
           </div>
 
@@ -150,7 +150,7 @@ const Testimonials: React.FC = () => {
             </div>
             <p className="text-gray-700 testimonial-3-text">
               {/* Tambahkan kelas unik untuk teks testimoni */}
-              We couldn't be happier with the results we've seen. Your team's dedication and attention to detail have truly exceeded our expectations. Thank you for helping us achieve our goals!
+              We couldnt be happier with the results we've seen. Your teams dedication and attention to detail have truly exceeded our expectations. Thank you for helping us achieve our goals!
             </p>
           </div>
         </div>
