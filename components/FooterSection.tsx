@@ -10,7 +10,7 @@ const FooterSection: React.FC = () => {
           </div>
           <p className="mb-4">
             At design we are passionate about providing business with the IT
-            solution they need to succeed in today's competitive marketplace
+            solution they need to succeed in todays competitive marketplace
           </p>
           <h4 className="mb-4">Follow Us</h4>
           <ul className="flex space-x-4">
