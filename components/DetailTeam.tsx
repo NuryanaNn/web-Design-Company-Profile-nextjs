@@ -77,7 +77,6 @@ const Index: NextPage = () => {
           </div>
         ))}
       </div>
-      <Footer />
     </>
   );
 };
